@@ -1,3 +1,4 @@
 # abhishek-portfolio
 <br>
-this is my first repo
+this is my first git repository.
+<br> Author Abhishek Dhiman </br>
